@@ -1,2 +1,3 @@
 # Automate the Boring Stuff - Projects
-My version of the projects from Automate the Boring Stuff With Python
+
+This repo contains my solutions to some of the many awesome projects from ABSwP. Some big, some small.
